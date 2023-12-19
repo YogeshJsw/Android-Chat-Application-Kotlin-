@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378378079154",
+    "project_id": "chat-application-ac770",
+    "storage_bucket": "chat-application-ac770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378378079154:android:f79a494e6a871a5f7172ab",
+        "android_client_info": {
+          "package_name": "com.yogeshj.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ4ZuOeKiOc7SmbHulhQrhW-jrMvF8M1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
